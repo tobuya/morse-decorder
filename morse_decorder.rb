@@ -52,4 +52,4 @@ end
 # Example:
 # irb -r ./morse_decoder.rb
 #  :001 > decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
-#  => "A BOX FULL OF RUBIES" 
+#  => "A BOX FULL OF RUBIES"
